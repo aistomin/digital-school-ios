@@ -1,3 +1,4 @@
 merge:
   commanders:
     - aistomin
+  script: ls
